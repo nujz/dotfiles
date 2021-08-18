@@ -10,7 +10,7 @@
 
 https://manjaro.org/downloads/community/cinnamon/
 
-其他可选： https://manjaro.org/download/kde-plasma
+其他可选： https://manjaro.org/downloads/official/kde/
 
 #### 1.2 虚拟机安装(也可以实体机安装)
 
